@@ -10,7 +10,7 @@ public class Main {
     }
 
     private static String b() {
-        return " World";
+        return " Világ";
     }
 
     private static String a() {
