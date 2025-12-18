@@ -14,6 +14,6 @@ public class Main {
     }
 
     private static String a() {
-        return "Hello";
+        return "Szia";
     }
 }
